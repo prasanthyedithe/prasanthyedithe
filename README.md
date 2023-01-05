@@ -57,13 +57,13 @@ Description: Ability to architect/design/develop with minimum requirements by ef
 
   
 <p align="left">
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://svgrepo.com/show/184143/java.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer"><img src="https://www.scaledagileframework.com/wp-content/uploads/2015/10/SAFe_provided_by_Scaled_Agile_368.png" width="36" height="36" alt="ScaledAgile" /></a>
+<a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU" width="36" height="36" alt="R Programming" /></a>
 <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_200_200/0/1522074989702?e=2147483647&v=beta&t=tlpf3ry8f53qJBr8HUJCO0xDvF2XGVU0s5a12Sg0AIE" width="36" height="36" alt="Scrum" /></a>
 
 </p>
