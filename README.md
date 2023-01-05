@@ -65,9 +65,25 @@ Description: Ability to architect/design/develop with minimum requirements by ef
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU" width="36" height="36" alt="R Programming" /></a>
 <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_200_200/0/1522074989702?e=2147483647&v=beta&t=tlpf3ry8f53qJBr8HUJCO0xDvF2XGVU0s5a12Sg0AIE" width="36" height="36" alt="Scrum" /></a>
-
-</p>
-
+<a href="https://solr.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Apache_Solr_logo.svg/1200px-Apache_Solr_logo.svg.png" width="36" height="36" alt="Apache Solr" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" width="36" height="36" alt="Spring Boot" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+<img src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" 
+width="36" height="36" alt="jQuery" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" 
+width="36" height="36" alt="Jenkins" /></a>
+<a href="https://www.cloudfoundry.org/" target="_blank" rel="noreferrer">
+<img src="https://yt3.googleusercontent.com/3wruKtq2IFlmKGhnGKpPnriFpbd2LPK3-bMx3lr_gCez2UESBnqYXNw-S1p9_HXvbv5W_e6VSWI=s900-c-k-c0x00ffffff-no-rj" 
+width="36" height="36" alt="PCF" /></a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer">
+<img src="https://cassandra.apache.org/assets/img/logo-white.svg" 
+width="36" height="36" alt="Cassandra" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" 
+width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 
