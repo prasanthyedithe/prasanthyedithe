@@ -1,7 +1,7 @@
 ### Hi  👋 I'am a IT Professional 
 =====================================
 
-I love sharing whatever i learn 😄 and love to make more friends to improve their & my skills in the data day to day life.
+I love sharing whatever i learnt 😄 and love to make more friends to improve their & my skills on day to day life.
 ------------------------------------
 
 ### Curently Learning AI & ML , Data Science with Python
