@@ -25,35 +25,53 @@ src="https://img.shields.io/twitter/follow/kumaryslp?logo=twitter&style=for-the-
 
 ## Delivery and Project Management
 
-Professional with over 15+ years of career reflecting hands-on Delivery & Project Management, Delivery & Project Management, Requirement Analysis, Developing technical specifications, Project Milestone & Sprint Plans, and high-level design documents for the project at various levels and in different phases of SDLC. Worked closely with Global Partners both Internationally and Domestic to ensure on-time delivery. Strong organizational and team-building skills, with a demonstrated ability in Project Delivery, Managing Client Expectations, Issue Resolution, and the ability to work effectively in an intense, high-energy environment.
-Description: Ability to architect/design/develop with minimum requirements by effectively coordinating activities between business analysts, scrum leads, developers, and managers
+Highly accomplished and dedicated professional with over 16 years of hands-on Delivery & Project Management experience across various stages of the Software Development Life Cycle (SDLC). Seeking a challenging role where I can leverage my proven expertise in delivering results and managing projects, while collaborating closely with global partners to ensure timely and successful outcomes. Possessing strong organizational and team-building skills, I excel in project delivery, managing client expectations, resolving issues, and thriving in intense, high-energy environments.
 
-• Gathered requirements, defined roadmap, and managed scope, schedule, resources, implementation, and delivery.
+# Key Strengths:
 
-• Led development of new software test application and enabled verification teams to create tests graphically making it easier for SMEs, who are non-technical to develop and maintain those tests and ensure better test coverage; it was instrumental in finding critical bugs in device software before the release.
+1. Extensive experience in Delivery & Project Management, spanning 16+ years, with a track record of achieving outstanding results.
 
-• Recruited to provide leadership and ensure completion and delivery of products and services. Established an Agile/KANBAN methodology for development and issues management Skills Used Scrum Project/Program Management.
+2. Proven ability to successfully navigate the various stages of the SDLC, ensuring projects are delivered on time and within budget.
 
-• Act as a technical lead/mentor for developers in day to day and overall project areas and leading a team of agile developers by guiding cross-team and third-party partnerships - influencing without authority and using the power of diverse teams.
+3. Skilled in establishing and nurturing strong relationships with global partners, both internationally and domestically, fostering effective collaboration and ensuring successful project outcomes.
 
-• Worked on project KPIs and metrics and formulate status reports based on them Anticipate risks and opportunities, and take initiatives to address them
+4. Strong organizational abilities, enabling efficient coordination of tasks, resources, and deliverables to meet project objectives.
 
-• Manage operations & engineering resources across multiple projects in a fast-paced multi-vendor environment
+5. Exceptional team-building skills, empowering cross-functional teams to perform at their best and deliver high-quality work.
 
-• Motivate the team, reinforce, deliver, and live the company's core values.
+6. Demonstrated expertise in managing client expectations, understanding their requirements, and effectively communicating project progress and milestones.
 
-• Build and maintain relationships with internal and external customers and stakeholders. Liaise with project stakeholders on an ongoing basis.
+7. Adept at issue resolution, employing analytical thinking and problem-solving skills to overcome challenges and maintain project momentum.
 
-• Continuously identify process improvements to ensure that the practices processes are aligned to global delivery practices.
+8. Thrive in intense, high-energy environments, where multitasking, adaptability, and resilience are crucial for success.
 
-• Conduct peer-reviews and lead reviews and provide feedback and Establishes team goals and objectives, and puts in place tracking mechanism to evaluate performance against goals
+9. Objective-driven, detail-oriented, and results-focused, I am eager to bring my wealth of experience and expertise to a dynamic organization that values excellence in project management and seeks to achieve exceptional outcomes. Through my strong leadership, exceptional communication skills, and unwavering commitment, I am confident in my ability to contribute significantly to the success and growth of the team and the organization as a whole.
 
-• Understand user requirements and build solution architecture and be able to break it into high level & low-level design
+# Relevant skills in the software industry typically include:
 
-• Effectively prioritize and manage all tasks and escalations taking ownership for end-end delivery
+Project Management: Demonstrated expertise in managing software projects from initiation to completion, including planning, scheduling, resource allocation, risk management, and budgeting.
 
-• Conduct peer-reviews and lead reviews and provide feedback and Establishes team goals and objectives, and puts in place tracking mechanism to evaluate performance against goals
+Software Development Life Cycle (SDLC): In-depth knowledge and experience across various stages of the SDLC, including requirements gathering, analysis, design, development, testing, deployment, and maintenance.
 
+Agile Methodologies: Proficiency in Agile frameworks such as Scrum or Kanban, with the ability to lead Agile teams, facilitate sprint planning, conduct daily stand-ups, and ensure timely delivery of iterative software releases.
+
+Technical Background: Solid understanding of software development technologies, programming languages, and frameworks relevant to the industry, enabling effective communication and collaboration with technical teams.
+
+Stakeholder Management: Proven ability to manage client relationships, engage with stakeholders at various levels, and effectively communicate project status, milestones, and risks to ensure alignment and client satisfaction.
+
+Team Leadership: Strong leadership skills, including the ability to inspire and motivate cross-functional teams, delegate tasks, foster collaboration, and resolve conflicts, leading to high team performance and project success.
+
+Risk Management: Expertise in identifying project risks, assessing their potential impact, and implementing proactive measures to mitigate risks and ensure project continuity.
+
+Quality Assurance: Knowledge of quality assurance processes and methodologies, including testing strategies, test planning, and defect management, to ensure the delivery of high-quality software products.
+
+Communication Skills: Excellent verbal and written communication skills, with the ability to convey complex technical concepts to both technical and non-technical stakeholders, fostering effective collaboration and understanding.
+
+Problem-solving and Decision-making: Strong analytical and problem-solving skills, coupled with the ability to make informed decisions quickly, resolve issues, and adapt to changing project requirements.
+
+Vendor Management: Experience in working with external vendors and managing vendor relationships to ensure deliverables meet quality standards, timelines, and budgetary constraints.
+
+Continuous Improvement: A mindset focused on continuous improvement, embracing new methodologies, technologies, and best practices to enhance project delivery efficiency and optimize team performance.
 ### Skills
 
 <p align="left">
